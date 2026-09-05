@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-Sou desenvolvedor front-end com foco em construir interfaces organizadas, funcionais e responsivas. Trabalho com HTML, CSS e JavaScript no dia a dia, e também venho desenvolvendo conhecimento em C#, ampliando minha atuação para além do front-end. Cada projeto neste perfil representa uma etapa prática de aprendizado, do desenvolvimento de formulários e sistemas de cadastro até integrações com APIs externas.
+Sou desenvolvedor com foco em construir interfaces organizadas, funcionais e responsivas. Trabalho com HTML, CSS e JavaScript no dia a dia, e também venho desenvolvendo conhecimento em C#, ampliando minha atuação para além do front-end. Cada projeto neste perfil representa uma etapa prática de aprendizado, do desenvolvimento de formulários e sistemas de cadastro até integrações com APIs externas.
 
 Busco constantemente evoluir tecnicamente e aplicar boas práticas de desenvolvimento, com interesse em seguir aprofundando tanto em front-end quanto em C#/.NET.
 
