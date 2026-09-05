@@ -18,13 +18,13 @@ Busco constantemente evoluir tecnicamente e aplicar boas práticas de desenvolvi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,cs,dotnet,git,github,vscode&theme=dark" />
 
 </div>
 
 | Categoria | Tecnologias |
 |---|---|
-| **Linguagens** | HTML5, CSS3, JavaScript, C# |
+| **Linguagens** | JavaScript e C# |
 | **Integração** | Consumo de APIs REST |
 | **Versionamento** | Git, GitHub |
 | **Boas práticas** | Responsividade (Mobile First), organização de código, componentização de layout |
