@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=25&height=140&section=header&text=Paulo%20Natan&fontSize=42&fontColor=E0D4FF&fontAlignY=45&desc=Desenvolvedor%20Front-End&descAlignY=70&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=25&height=140&section=header&text=Paulo%20Natan&fontSize=42&fontColor=E0D4FF&fontAlignY=50" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-Sou desenvolvedor  com foco em construir interfaces organizadas, funcionais e responsivas. Trabalho com HTML, CSS e JavaScript no dia a dia, e também venho desenvolvendo conhecimento em C#, ampliando minha atuação para além do front-end. Cada projeto neste perfil representa uma etapa prática de aprendizado, do desenvolvimento de formulários e sistemas de cadastro até integrações com APIs externas.
+Sou desenvolvedor front-end com foco em construir interfaces organizadas, funcionais e responsivas. Trabalho com HTML, CSS e JavaScript no dia a dia, e também venho desenvolvendo conhecimento em C#, ampliando minha atuação para além do front-end. Cada projeto neste perfil representa uma etapa prática de aprendizado, do desenvolvimento de formulários e sistemas de cadastro até integrações com APIs externas.
 
 Busco constantemente evoluir tecnicamente e aplicar boas práticas de desenvolvimento, com interesse em seguir aprofundando tanto em front-end quanto em C#/.NET.
 
