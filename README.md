@@ -37,9 +37,9 @@ Busco constantemente evoluir tecnicamente e aplicar boas práticas de desenvolvi
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [adopet](https://github.com/paulonatanrodrigues-creator/adopet) | Página para adoção de pets, com foco em layout limpo e responsivo. | HTML |
-| [food_e-commerce](https://github.com/paulonatanrodrigues-creator/food_e-commerce) | Simulação de e-commerce de alimentos, praticando estrutura de páginas e estilização. | HTML |
+| [APibiblioteca](https://github.com/paulonatanrodrigues-creator/APIbiblioteca) |Consaumo de api em c# de uma biblioteca| HTML |
 | [mendigoflix](https://github.com/paulonatanrodrigues-creator/mendigoflix) | Projeto de consumo de API, integrando dados externos a uma interface dinâmica. | JavaScript, CSS |
-| [cadastro-academia](https://github.com/paulonatanrodrigues-creator/cadastro-academia) | Sistema de cadastro para academia, com foco em formulários e estilização. | CSS |
+| [Glyzon](https://github.com/paulonatanrodrigues-creator/Glyzon) |loja de hardware gamer com montagem inteligente | CSS |
 | [criptopedia](https://github.com/paulonatanrodrigues-creator/criptopedia) | Página informativa sobre criptomoedas. | CSS |
 | [form-escolar](https://github.com/paulonatanrodrigues-creator/form-escolar) | Formulário escolar estruturado. | HTML |
 
