@@ -36,14 +36,14 @@ Busco constantemente evoluir tecnicamente e aplicar boas práticas de desenvolvi
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [adopet](https://github.com/paulonatanrodrigues-creator/adopet) | Página para adoção de pets, com foco em layout limpo e responsivo. | JavaScript, HTML, CSS (REACT) |
-| [APibiblioteca](https://github.com/paulonatanrodrigues-creator/APIbiblioteca) |Consaumo de api em c# de uma biblioteca|C# |
-| [mendigoflix](https://github.com/paulonatanrodrigues-creator/mendigoflix) | Projeto de consumo de API, integrando dados externos a uma interface dinâmica. | JavaScript, CSS |
-| [Glyzon](https://github.com/paulonatanrodrigues-creator/Glyzon) |loja de hardware gamer com montagem inteligente | C# |
-| [criptopedia](https://github.com/paulonatanrodrigues-creator/criptopedia) | Página informativa sobre criptomoedas. | JavaScript, HTML, CSS |
-| [dashboardPandas](https://github.com/paulonatanrodrigues-creator/dashboardPandas) | dashboard usando dados de planilhas excel para ilustrar e manipular dados. | Python |
+| [adopet](https://github.com/natanrodriguesz/adopet) | Página para adoção de pets, com foco em layout limpo e responsivo. | JavaScript, HTML, CSS (REACT) |
+| [APibiblioteca](https://github.com/natanrodriguesz/APIbiblioteca) |Consaumo de api em c# de uma biblioteca|C# |
+| [mendigoflix](https://github.com/natanrodriguesz/mendigoflix) | Projeto de consumo de API, integrando dados externos a uma interface dinâmica. | JavaScript, CSS |
+| [Glyzon](https://github.com/natanrodriguesz/Glyzon) |loja de hardware gamer com montagem inteligente | C# |
+| [criptopedia](https://github.com/natanrodriguesz/criptopedia) | Página informativa sobre criptomoedas. | JavaScript, HTML, CSS |
+| [dashboardPandas](https://github.com/natanrodriguesz/dashboardPandas) | dashboard usando dados de planilhas excel para ilustrar e manipular dados. | Python |
 
-Veja todos os repositórios na aba [Repositories](https://github.com/paulonatanrodrigues-creator?tab=repositories).
+Veja todos os repositórios na aba [Repositories](https://github.com/natanrodriguesz?tab=repositories).
 
 ---
 
@@ -51,8 +51,8 @@ Veja todos os repositórios na aba [Repositories](https://github.com/paulonatanr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=paulonatanrodrigues-creator&show_icons=true&theme=default&hide_border=true&title_color=6a0dad&icon_color=8a2be2&text_color=333333" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=paulonatanrodrigues-creator&theme=default&hide_border=true&stroke=6a0dad&ring=8a2be2&fire=6a0dad&currStreakLabel=6a0dad" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=natanrodriguesz&show_icons=true&theme=default&hide_border=true&title_color=6a0dad&icon_color=8a2be2&text_color=333333" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=natanrodriguesz&theme=default&hide_border=true&stroke=6a0dad&ring=8a2be2&fire=6a0dad&currStreakLabel=6a0dad" height="165"/>
 
 </div>
 
@@ -73,6 +73,6 @@ Veja todos os repositórios na aba [Repositories](https://github.com/paulonatanr
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Natan-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-natan-a6494a351)
-[![GitHub](https://img.shields.io/badge/GitHub-paulonatanrodrigues--creator-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natanrodriguesz)
+[![GitHub](https://img.shields.io/badge/GitHub-natanrodriguesz-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natanrodriguesz)
 
 </div>
