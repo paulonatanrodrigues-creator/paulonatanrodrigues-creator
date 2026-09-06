@@ -73,6 +73,6 @@ Veja todos os repositórios na aba [Repositories](https://github.com/paulonatanr
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Natan-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-natan-a6494a351)
-[![GitHub](https://img.shields.io/badge/GitHub-paulonatanrodrigues--creator-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulonatanrodrigues-creator)
+[![GitHub](https://img.shields.io/badge/GitHub-paulonatanrodrigues--creator-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natanrodriguesz)
 
 </div>
