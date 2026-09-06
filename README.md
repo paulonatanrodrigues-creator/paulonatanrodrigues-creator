@@ -18,13 +18,13 @@ Busco constantemente evoluir tecnicamente e aplicar boas práticas de desenvolvi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,cs,dotnet,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,cs,python,dotnet,git,github,vscode&theme=dark" />
 
 </div>
 
 | Categoria | Tecnologias |
 |---|---|
-| **Linguagens** | JavaScript e C# |
+| **Linguagens** | JavaScript , C# e python |
 | **Integração** | Consumo de APIs REST |
 | **Versionamento** | Git, GitHub |
 | **Boas práticas** | Responsividade (Mobile First), organização de código, componentização de layout |
@@ -36,12 +36,12 @@ Busco constantemente evoluir tecnicamente e aplicar boas práticas de desenvolvi
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [adopet](https://github.com/paulonatanrodrigues-creator/adopet) | Página para adoção de pets, com foco em layout limpo e responsivo. | HTML |
-| [APibiblioteca](https://github.com/paulonatanrodrigues-creator/APIbiblioteca) |Consaumo de api em c# de uma biblioteca| HTML |
+| [adopet](https://github.com/paulonatanrodrigues-creator/adopet) | Página para adoção de pets, com foco em layout limpo e responsivo. | JavaScript, HTML, CSS (REACT) |
+| [APibiblioteca](https://github.com/paulonatanrodrigues-creator/APIbiblioteca) |Consaumo de api em c# de uma biblioteca|C# |
 | [mendigoflix](https://github.com/paulonatanrodrigues-creator/mendigoflix) | Projeto de consumo de API, integrando dados externos a uma interface dinâmica. | JavaScript, CSS |
-| [Glyzon](https://github.com/paulonatanrodrigues-creator/Glyzon) |loja de hardware gamer com montagem inteligente | CSS |
-| [criptopedia](https://github.com/paulonatanrodrigues-creator/criptopedia) | Página informativa sobre criptomoedas. | CSS |
-| [form-escolar](https://github.com/paulonatanrodrigues-creator/form-escolar) | Formulário escolar estruturado. | HTML |
+| [Glyzon](https://github.com/paulonatanrodrigues-creator/Glyzon) |loja de hardware gamer com montagem inteligente | C# |
+| [criptopedia](https://github.com/paulonatanrodrigues-creator/criptopedia) | Página informativa sobre criptomoedas. | JavaScript, HTML, CSS |
+| [dashboardPandas](https://github.com/paulonatanrodrigues-creator/dashboardPandas) | dashboard usando dados de planilhas excel para ilustrar e manipular dados. | Python |
 
 Veja todos os repositórios na aba [Repositories](https://github.com/paulonatanrodrigues-creator?tab=repositories).
 
